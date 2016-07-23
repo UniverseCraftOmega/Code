@@ -59,7 +59,9 @@ _____________________________
 
 CONTACT INFO
 Business Offers:  business.universecraftomega@gmail.com
+
 Support / Help:   helpdesk.universecraftomega@gmail.com
+
 General:          UniverseCraftOmega@gmail.com
 
 UniverseCraft Omega website: ucomc.enjin.com
